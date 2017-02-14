@@ -1,0 +1,13 @@
+#java specific
+*.class
+nbproject/
+
+*~
+*.lock
+*.DS_Store
+*.swp
+*.out
+
+*.jar
+*.war
+*.ear
