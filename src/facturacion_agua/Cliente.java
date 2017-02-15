@@ -14,6 +14,7 @@ public class Cliente {
     protected double consumo;
     protected double alcantarillado;
     protected double depuracion;
+    protected double prueba;
     
     protected static final double CONSUMO_RAZON = 0.32;
     protected static final double ALCANTARILLADO_RAZON = 0.298;
