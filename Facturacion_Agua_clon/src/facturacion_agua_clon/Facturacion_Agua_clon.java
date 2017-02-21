@@ -16,6 +16,7 @@ public class Facturacion_Agua_clon {
      */
     public static void main(String[] args) {
         int prueba;
+        int otra;
     }
     
 }
