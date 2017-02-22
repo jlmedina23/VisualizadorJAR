@@ -17,7 +17,7 @@ public class Facturacion_Agua_clon {
     public static void main(String[] args) {
         LOG.info("Inicio de la aplicación: " + args.length + " argumentos");
         int prueba;
-        int otra;
+        //int otra;
         
     }
     
