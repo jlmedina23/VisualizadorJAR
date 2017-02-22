@@ -18,6 +18,12 @@ public class Facturacion_Agua_clon {
         LOG.info("Inicio de la aplicación: " + args.length + " argumentos");
         int prueba;
         int otra;
+        
+    }
+    
+    //Un comentario
+    static public void dummy(){
+        System.out.println("Esto es una línea de texto");
     }
     
 }
